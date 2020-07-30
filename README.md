@@ -1,8 +1,11 @@
 # Landing Page Project
+This is a project for frontend Nanodegree by Udacity
+## Languages used
+##### HTML
 
-## Table of Contents
+##### CSS
 
-* [Instructions](#instructions)
+##### JavaScript
 
 ## Instructions
 
